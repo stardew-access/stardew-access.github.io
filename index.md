@@ -2,14 +2,23 @@
 
 ## Description
 
-An accessibility mod for Stardew Valley with screen reader and keyboard only support. Currently only for windows.
+An accessibility mod for Stardew Valley with screen reader and keyboard only support. Currently only for windows. If you want to support me, you can do so via patreon.
 
 ## Table of Contents
 
+1. [Quick Links](#quick-links)
 1. [Requirements](#requirements)
 1. [SMAPI Installation Guide](#smapi-installation-guide)
 1. [AutoHotKey Installation Guide](#autohotkey-installation-guide)
 1. [Mod Installation](#mod-installation)
+
+## Quick Links
+
+- [Source Code at GitHub](https://github.com/stardew-access/stardew-access)
+- [Stardew Valley Forum](https://forums.stardewvalley.net/resources/stardew-access.88/)
+- [Nexus Mods]()
+- [Discord](https://discord.gg/yQjjsDqWQX)
+- [Patreon](https://www.patreon.com/shoaibkhan)
 
 ## Requirements
 
