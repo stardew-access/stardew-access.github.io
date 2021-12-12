@@ -4,10 +4,17 @@
 
 An accessibility mod for Stardew Valley with screen reader and keyboard only support. Currently only for windows.
 
+## Table of Contents
+
+1. [Requirements](#requirements)
+1. [SMAPI Installation Guide](#smapi-installation-guide)
+1. [AutoHotKey Installation Guide](#autohotkey-installation-guide)
+1. [Mod Installation](#mod-installation)
+
 ## Requirements
 
-1. SMAPI - [smapi installation guide](#smpai-installation-guide)
-1. AutoHotKey - [autohotkey installation guide]()
+1. SMAPI - [smapi installation guide](#smapi-installation-guide)
+1. AutoHotKey - [autohotkey installation guide](#autohotkey-installation-guide)
 
 ## SMAPI Installation Guide
 
@@ -20,11 +27,11 @@ An accessibility mod for Stardew Valley with screen reader and keyboard only sup
     - Navigate to `Launch Options` in the `General` tab
     - Now if you have installed Stardew Valley in the default steam downloads then copy and paste the following text into the Launch Options text box.
 
-        "C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\StardewModdingAPI.exe" %command%
+        >"C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\StardewModdingAPI.exe" %command%
     
     - Now for those who have installed the game in some other folder the format of the text you have to copy and paste should be:
 
-        "\<SVPath\>\StardewModdingAPI.exe" %command%
+        >"\<SVPath\>\StardewModdingAPI.exe" %command%
     
         - Replace \<SVPath\>\ with the path of the Stardew Valley folder.
         - Note that `\<SVPath\>\StardewModdingAPI.exe` is surrounded by double-quotes.
@@ -36,3 +43,9 @@ An accessibility mod for Stardew Valley with screen reader and keyboard only sup
 
 1. Download the [latest version](https://www.autohotkey.com/)
 1. Follow the steps in the installer and it's installed.
+
+## Mod Installation
+
+1. Download the latest mod through [GitHub](https://github.com/stardew-access/stardew-access/releases/), [Stardew Valley Forum](https://forums.stardewvalley.net/resources/stardew-access.88/) or [Nexus Mods]()
+1. Extract the zip.
+1. Move the `stardew-access` folder into the Mods folder in the `Stardew Valley` game folder. Your mod is now installed.
