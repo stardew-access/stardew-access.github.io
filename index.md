@@ -16,7 +16,7 @@ An accessibility mod for Stardew Valley with screen reader and keyboard only sup
 
 - [Source Code at GitHub](https://github.com/stardew-access/stardew-access)
 - [Stardew Valley Forum](https://forums.stardewvalley.net/resources/stardew-access.88/)
-- [Nexus Mods]()
+- [Nexus Mods](https://www.nexusmods.com/stardewvalley/mods/10319)
 - [Discord](https://discord.gg/yQjjsDqWQX)
 - [Patreon](https://www.patreon.com/shoaibkhan)
 
@@ -55,6 +55,6 @@ An accessibility mod for Stardew Valley with screen reader and keyboard only sup
 
 ## Mod Installation
 
-1. Download the latest mod through [GitHub](https://github.com/stardew-access/stardew-access/releases/), [Stardew Valley Forum](https://forums.stardewvalley.net/resources/stardew-access.88/) or [Nexus Mods]()
+1. Download the latest mod through [GitHub](https://github.com/stardew-access/stardew-access/releases/), [Stardew Valley Forum](https://forums.stardewvalley.net/resources/stardew-access.88/) or [Nexus Mods](https://www.nexusmods.com/stardewvalley/mods/10319)
 1. Extract the zip.
 1. Move the `stardew-access` folder into the Mods folder in the `Stardew Valley` game folder. Your mod is now installed.
