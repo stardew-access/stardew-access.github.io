@@ -1,5 +1,3 @@
-# Stardew Access
-
 ## Description
 
 An accessibility mod for Stardew Valley with screen reader and keyboard only support. Currently only for windows. If you want to support me, you can do so via patreon.
