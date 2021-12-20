@@ -18,6 +18,6 @@ If you want to contact me, whether it be for reporting any bugs or suggesting a 
 
 ## Pages
 
-- [Setup](/setup/)
-- [Mod Details](/mod-details/)
-- [Getting Started](/getting-started/)
+- [Setup](/setup)
+- [Mod Details](/mod-details)
+- [Getting Started](/getting-started)
