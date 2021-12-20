@@ -10,7 +10,7 @@ permalink: /setup/
 1. [SMAPI Installation Guide](#smapi-installation-guide)
 1. [AutoHotKey Installation Guide](#autohotkey-installation-guide)
 1. [Mod Installation](#mod-installation)
-1. [Instructions to Set up the Glue Your Furniture Down mod](#instructions-to-set-up-the-glue-your-furniture-down-mod
+1. [Instructions to Set up the Glue Your Furniture Down mod](#instructions-to-set-up-the-glue-your-furniture-down-mod)
 
 ## Quick Links
 
