@@ -1,7 +1,3 @@
-## Description
-
-An accessibility mod for Stardew Valley with screen reader and keyboard only support. Currently only for windows. If you want to support me, you can do so via patreon.
-
 ## Table of Contents
 
 1. [Quick Links](#quick-links)
@@ -15,8 +11,6 @@ An accessibility mod for Stardew Valley with screen reader and keyboard only sup
 - [Source Code at GitHub](https://github.com/stardew-access/stardew-access)
 - [Stardew Valley Forum](https://forums.stardewvalley.net/resources/stardew-access.88/)
 - [Nexus Mods](https://www.nexusmods.com/stardewvalley/mods/10319)
-- [Discord](https://discord.gg/yQjjsDqWQX)
-- [Patreon](https://www.patreon.com/shoaibkhan)
 
 ## Requirements
 
@@ -28,8 +22,9 @@ An accessibility mod for Stardew Valley with screen reader and keyboard only sup
 1. Run Stardew Valley atleast once before following the steps ahead to generate necessary files.
 1. Download the [latest version](https://smapi.io/)
 1. Extract the zip file and run the ` Windows.bat ` file.
-1. Follow the instructions and normally it will detect the game's folder automatically. Now you to configure your game client.
-1. For Steam:-
+1. Follow the instructions and normally it will detect the game's folder automatically.
+1. If you don't want the achievements and all, you can skip the following steps and launch the `StardewModdingAPI.exe` in the game's folder.
+1. Follow the steps to setup steam achievements:-
     - Go to you library and right click on stardew valley and open `properties` from the drop down menu.
     - Navigate to `Launch Options` in the `General` tab
     - Now if you have installed Stardew Valley in the default steam downloads then copy and paste the following text into the Launch Options text box.
