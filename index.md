@@ -14,4 +14,10 @@ Well currently the mod has a keybind that narrates health and stamina/energy and
 
 ## Contact
 
-If you want to contact me, whether it be for reporting any bugs or suggesting a feature, you can contact me via [email](shoaib.khan20@outlook.com), [discord](https://discord.gg/yQjjsDqWQX) or [twitter](https://twitter.com/Shoaib6996). If you want to support the project's development, you do so via [patreon](https://www.patreon.com/shoaibkhan).
+If you want to contact me, whether it be for reporting any bugs or suggesting a feature, you can contact me via [discord](https://discord.gg/yQjjsDqWQX) or [twitter](https://twitter.com/Shoaib6996). If you want to support the project's development, you do so via [patreon](https://www.patreon.com/shoaibkhan).
+
+## Pages
+
+- [Setup](/setup/)
+- [Mod Details](/mod-details/)
+- [Getting Started](/getting-started/)
