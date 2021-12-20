@@ -1,3 +1,8 @@
+---
+title: Setup
+permalink: /setup/
+---
+
 ## Table of Contents
 
 1. [Quick Links](#quick-links)
