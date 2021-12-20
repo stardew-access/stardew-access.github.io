@@ -51,8 +51,29 @@ permalink: /setup/
 1. Download the [latest version](https://www.autohotkey.com/)
 1. Follow the steps in the installer and it's installed.
 
-## Mod Installation
+## Stardew Accessibility Mod Installation
 
 1. Download the latest mod through [GitHub](https://github.com/stardew-access/stardew-access/releases/), [Stardew Valley Forum](https://forums.stardewvalley.net/resources/stardew-access.88/) or [Nexus Mods](https://www.nexusmods.com/stardewvalley/mods/10319)
 1. Extract the zip.
 1. Move the `stardew-access` folder into the Mods folder in the `Stardew Valley` game folder. Your mod is now installed.
+
+## instructions to Set up the Glue Your Furniture Down mod
+Once set up, this mod prevents your character from accidentally picking up the bed, fireplace, rugs and table in your house.  
+We suggest you install it, because placing the bed down again is a little hard, and you will need the bed at the end of every day.
+
+Download the [Glue Your Furniture Down Mod](https://www.nexusmods.com/stardewvalley/mods/10374)  
+Unzip the folder,  
+Copy the GlueFurnitureDown folder and paste it in the mods folder.  
+Don't paste it in the accessibility mod folder, but in the mods folder.  
+Run the game so a file called config.JSON file could be generated.  
+Close the game.  
+Open that file with notepad.  
+You will see text like this:  
+  "CanPickUpBed": true,  
+"CanPickUpChair": true,  
+"CanPickUpTable": true,  
+And so on. 
+
+What you have to do is edit the file. If you don't want to pick up your bed and believe me you don't, change the word true with false. Don't delete anything else, just that word and replace it with false.  
+Do the same to all the things that you don't want to pick up.  
+Save the file and congrats, no more picking up your furniture accidentally.
