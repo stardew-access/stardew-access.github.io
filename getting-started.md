@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Getting Started
-permalink: getting-started
+permalink: /getting-started/
 ---
 
 ## Creating a New Game
