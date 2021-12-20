@@ -19,13 +19,13 @@
 
 ## SMAPI Installation Guide
 
-1. Run Stardew Valley atleast once before following the steps ahead to generate necessary files.
+1. Run Stardew Valley at least once before following the steps ahead to generate necessary files.
 1. Download the [latest version](https://smapi.io/)
 1. Extract the zip file and run the ` Windows.bat ` file.
 1. Follow the instructions and normally it will detect the game's folder automatically.
 1. If you don't want the achievements and all, you can skip the following steps and launch the `StardewModdingAPI.exe` in the game's folder.
 1. Follow the steps to setup steam achievements:-
-    - Go to you library and right click on stardew valley and open `properties` from the drop down menu.
+    - Go to your library and right click on stardew valley and open `properties` from the drop down menu.
     - Navigate to `Launch Options` in the `General` tab
     - Now if you have installed Stardew Valley in the default steam downloads then copy and paste the following text into the Launch Options text box.
 
