@@ -52,8 +52,10 @@ W to move north.
 S to move south.  
 D to move east.  
 A to move west.  
-E to open the inventory, you can get out of the menu by pressing e again or escape.  
 W, S, D and A are also the keys you will use when you navigate through your inventory, crafting skills or the shop menus and so on.  
+Q narrates the time of day and the season.  
+E opens the inventory, you can get out of the menu by pressing e again or escape.  
+R narrates your money.  
 X is used to open doors, chests, menus in shops or when you complete quests that ask you to bring someone something. This  is the key you need for example when you want to open the door to your farmhouse to get back inside.  
 C is used when you use your tools. So when you want to use your fishing pole, you select it from your hotbar and press c. The same rule applies to the other tools or things that can be used from your inventory.  
 F opens your journal menu. Here you will be able to see your quests.  
