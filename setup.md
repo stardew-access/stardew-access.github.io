@@ -10,6 +10,7 @@ permalink: /setup/
 1. [SMAPI Installation Guide](#smapi-installation-guide)
 1. [AutoHotKey Installation Guide](#autohotkey-installation-guide)
 1. [Mod Installation](#mod-installation)
+1. [Instructions to Set up the Glue Your Furniture Down mod](#instructions-to-set-up-the-glue-your-furniture-down-mod)
 
 ## Quick Links
 
@@ -57,7 +58,7 @@ permalink: /setup/
 1. Extract the zip.
 1. Move the `stardew-access` folder into the Mods folder in the `Stardew Valley` game folder. Your mod is now installed.
 
-## instructions to Set up the Glue Your Furniture Down mod
+## Instructions to Set up the Glue Your Furniture Down mod
 Once set up, this mod prevents your character from accidentally picking up the bed, fireplace, rugs and table in your house.  
 We suggest you install it, because placing the bed down again is a little hard, and you will need the bed at the end of every day.
 
