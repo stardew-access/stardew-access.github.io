@@ -62,7 +62,9 @@ Once set up, this mod prevents your character from accidentally picking up the b
 We suggest you install it, because placing the bed down again is a little hard, and you will need the bed at the end of every day.
 
 Download the [Glue Your Furniture Down Mod](https://www.nexusmods.com/stardewvalley/mods/10374)  
-Unzip the folder,  
+Note: You need an account to download the mods, and you can also follow the updates if you want.  
+To download, once you have an account, click on the link called manual, then look for the download button.  
+Once downloaded, unzip the folder,  
 Copy the GlueFurnitureDown folder and paste it in the mods folder.  
 Don't paste it in the accessibility mod folder, but in the mods folder.  
 Run the game so a file called config.JSON file could be generated.  
