@@ -3,6 +3,9 @@ title: Getting Started
 permalink: /getting-started/
 ---
 
+## An audio and video demo of a screen reader user playing and explaining how things work
+ [Here's a link of one of the beta testers playing the game if you want to listen](https://www.youtube.com/watch?v=00L504aVXRY)
+
 ## Creating a New Game
 Before we get into how to create a game and character, we want to remind you that the accessibility mod is still in beta.  
 There may be bugs so please report them and try not to get mad when sometimes things don't work.

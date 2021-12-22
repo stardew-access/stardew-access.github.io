@@ -6,6 +6,7 @@ permalink: /setup/
 ## Table of Contents
 
 1. [Quick Links](#quick-links)
+1. [An audio and video demo of a screen reader user playing and explaining how things work](#An-audio-and-video-demo-of-a-screen-reader-user-playing-and-explaining-how-things-work)
 1. [Requirements](#requirements)
 1. [SMAPI Installation Guide](#smapi-installation-guide)
 1. [AutoHotKey Installation Guide](#autohotkey-installation-guide)
@@ -17,6 +18,9 @@ permalink: /setup/
 - [Source Code at GitHub](https://github.com/stardew-access/stardew-access)
 - [Stardew Valley Forum](https://forums.stardewvalley.net/resources/stardew-access.88/)
 - [Nexus Mods](https://www.nexusmods.com/stardewvalley/mods/10319)
+
+## An audio and video demo of a screen reader user playing and explaining how things work
+ [Here's a link of one of the beta testers playing the game if you want to listen](https://www.youtube.com/watch?v=00L504aVXRY)
 
 ## Requirements
 
