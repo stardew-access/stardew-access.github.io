@@ -136,7 +136,12 @@ Note them down so you don't get lost.
 What you do now is up to you, you can try to clean south of your farm. So press s twice and listen to what your screenreader says.  
 If it says grass, press 5 and c a few times. then 2 and c to till your soil.  
 You should have now a patch of soil.  
-Using the tools is easy. an axe cuts trees, pickaxe stones, a water can waters seeds and so on.
+Using the tools is easy.  
+The axe cuts trees and anything wood related,  
+the pickaxe stones, metals from the mine, boulders,  
+the water can waters seeds,  
+the hoe is used to till soil,  
+and the scythe cuts grass and weeds, and it helps you harvest some of the seeds you plant when they're ready to be harvested.
 
 If you're done exploring and experimenting, go back to your farm, 64 15, and press x.  
 You should hear a door sound.  
@@ -228,4 +233,11 @@ If your health is dropping, it means that a monster picked you as its victim.
 Fight back by selecting your sword and pressing c until that sound can't be heard anymore.
 
 When you succeed killing it, check your health and eat some food to bring it back up if you're badly hurt.  
-Side note, using the sword doesn't drain your stamina.
+Side note, using the sword or the scythe doesn't drain your stamina.
+
+## How to customize your character
+Currently  customizing your character in game isn't accessible, so until that is made accessible, here's how you can add some personal touches to your farmer.  
+By typing in the console player_changecolor and adding eyes or hair then an RGB color, you will change the color of your character's eyes or hair.  
+For example: player_changecolor eyes 255,0,0 would make your character's eyes red.  
+If you want to change your character's gender, you type this command:  
+player_changestyle gender then you choose between 0 (male) and 1 (female.)  
