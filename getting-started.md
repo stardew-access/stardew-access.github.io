@@ -3,6 +3,27 @@ title: Getting Started
 permalink: /getting-started/
 ---
 
+# Getting Started
+
+## Other Pages
+
+- [Setup](/setup)
+- [Mod Details](/mod-details)
+- [Home](/)
+
+## Table of Contents
+
+- [An audio and video demo of a screen reader user playing and explaining how things work](#an-audio-and-video-demo-of-a-screen-reader-user-playing-and-explaining-how-things-work)
+- [Creating a New Game](#creating-a-new-game)
+- [Creating your first character](#creating-your-first-character)
+- [Useful keys](#useful-keys)
+- [Menu navigation](#menu-navigation)
+- [Movement](#movement)
+- [The first days. Getting Started](#the-first-days-getting-started)
+- [Cleaning your farm with your tools](#cleaning-your-farm-with-your-tools)
+- [How to plant](#how-to-plant)
+
+
 ## An audio and video demo of a screen reader user playing and explaining how things work
  [Here's a link of one of the beta testers playing the game if you want to listen](https://www.youtube.com/watch?v=00L504aVXRY)
 
@@ -100,7 +121,7 @@ We recommend using your tools one by one to try to get rid of the obstacle.
 Usually using your hoe or scythe works, so try those first.  
 If you want to move more than one tile, hold down the key and you will hear your character moving.
 
-## the first days. Getting Started
+## The first days. Getting Started
 Now that you're in the game, you can start being a farmer.  
 To do this, you have to plant and to clean your farmland.
 
