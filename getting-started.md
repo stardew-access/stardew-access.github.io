@@ -9,6 +9,7 @@ permalink: /getting-started/
 
 - [Setup](/setup)
 - [Mod Details](/mod-details)
+- [Useful Coords](/useful-coords)
 - [Home](/)
 
 ## Table of Contents

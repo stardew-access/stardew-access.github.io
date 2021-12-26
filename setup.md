@@ -3,6 +3,17 @@ title: Setup
 permalink: /setup/
 ---
 
+# Setup
+
+This is the setup guide for both smapi and stardew access. Will be adding steps for GoG and Microsoft soon alongwith steps to download it from nexus.
+
+## Other Pages
+
+- [Mod Details](/mod-details)
+- [Getting Started](/getting-started)
+- [Home](/)
+- [Useful Coords](/useful-coords)
+
 ## Table of Contents
 
 1. [Quick Links](#quick-links)

@@ -18,6 +18,7 @@ You can post issues or suggestions in GitHub or Discord. I prefer Discord.
 - [Setup](/setup)
 - [Getting Started](/getting-started)
 - [Home](/)
+- [Useful Coords](/useful-coords)
 
 ## Requirements
 
