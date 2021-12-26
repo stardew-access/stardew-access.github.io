@@ -153,7 +153,39 @@ So starting from 64 18, start using your tools on each tile and keep moving sout
 Then once you cleared that, move to the left or to the right and move up to 63 15 or 65 15 and keep repeating the process until you have enough plots cleared and enough crafting materials.  
 Remember to keep track of the time with q to be inside the house before midnight.  
 
-## How to plant
+## how to travel around the SV world.  
+While some of us will like to note down the coordinates of the maps and learn our way around the game and its various places, others will like to move fast and use teleport commands.  
+Remember when we said not to close the Smapi console that opens with the game?  
+One of the reasons is closing that console closes the game, but even more important, that console is great for many things, such as teleporting, finding npc coordinates and much more.  
+There are lots of cheat commands, but most of us would rather play the game naturally without cheating, only using commands that make the game more accessible.  
+Before I explain how you can use them, I'd like to add that these commands aren't blind specific, everyone uses them.  
+Some of these great commands, when it comes to teleporting are:  
+debug warphome (it will bring you inside your farm house close to the bed)
+Debug warp farm (will bring you in front of your house)  
+debug warp sam house  (you will need this for a quest at some point)
+debug warp community center  
+debug warp mountain lake  
+Debug warp beach  
+debug warp shop (It will warp you to the seed shop)  
+debug warp science (will warp you to Robin's shop)  
+debug warp mine shaft (once the mine unlocks in the game, you can type this command to trigger the scene where your character will receive a sword that is needed to kill the monsters in the mine.)
+
+## How to find NPC's
+All you have to do, if you need someone's coordinates is to type  
+debug where name.  
+
+Some of the names you will probably need are:  
+Pierre, Robin, Krobus, Sandy, Marnie, Clint, Gus, Willy, Pam, Dwarf, and Wizard.
+
+## How to shop
+For the moments when you will need more inventory space, seeds or farm buildings, you will want to go to one of the NPC run shops.  
+To find the shops you can use the commands above or explore the town.  
+
+When you are in the shop, you bring up the shop menu by pressing x.  
+When that is pressed, you use w and s to choose whatever you want to buy then press left click to buy what you need.  
+Have fun!
+
+## How to plant seeds
 This being a farming game, you will need to plant things.  
 Luckily, that is pretty easy.  
 In your house you should find a chest.  
@@ -166,3 +198,34 @@ Don't forget to water it once it's planted and keep watering it daily.
 If you think that you may forget where your seed is, note down the coordinates somewhere.  
 Repeat the process until you have no more seeds.  
 You can plant one seed per tilled soil.  
+
+## How to mine
+Locate the mine by walking or warping to trigger the cut scene that will give your character a sword.  
+That will be required in the mine to kill mobs.
+
+Friendly advice:  
+Take some food or fish that you can eat to replenish your stamina and keep track of the time in the mine by pressing q.  
+Also, make sure that you have some space in the inventory for the stones, gems and metals that you will find plus drops from the monsters that you will kill and Of course, don't forget to bring your pickaxe along.
+
+Mining isn't hard once you try to follow a pattern that you like.  
+The trick is to move in rows from top to bottom or from right to left to try to mine all the stone.  
+To do the mining itself, just select your pickaxe from your inventory and press c.  
+Sometimes you may need to press more than once to break a rock.
+
+The mine has levels, and to move from one level to another you will use ladders.  
+These ladders sometimes spawn when you kill a monster, when you mine stone or they may be somewhere on the level already.  
+
+Sometimes you will find barrels. To open them, break them with a tool from your inventory. I used my axe, but you can try to see what other tool works.
+
+## How to fight monsters
+You will find some monsters in the mine and in some other places later in the game and you can kill them.  
+That's why you should go through the cutscene to get the sword, it helps.  
+It's true that the damage on it isn't that big, but it's a good weapon when you begin.  
+
+When they attack you there will be a sound.
+Just check your health if you haven't heard the sound before.  
+If your health is dropping, it means that a monster picked you as its victim.  
+Fight back by selecting your sword and pressing c until that sound can't be heard anymore.
+
+When you succeed killing it, check your health and eat some food to bring it back up if you're badly hurt.  
+Side note, using the sword doesn't drain your stamina.
