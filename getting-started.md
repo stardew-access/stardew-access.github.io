@@ -190,6 +190,15 @@ When you are in the shop, you bring up the shop menu by pressing x.
 When that is pressed, you use w and s to choose whatever you want to buy then press left click to buy what you need.  
 Have fun!
 
+## How to sell
+You've been fishing, planting, harvesting and maybe even mining, so why not make some money?  
+You can sell things by going to X72,Y17.  
+There you will hear a sound like a door opening.  
+What you have to do once you're there is press x and then navigate the same way you do in your inventory.  
+If you find something that you want to sell, left click on it to sell all of it or right click to add things one by one.  
+Once you're done, press e or escape to exit the menu then get out of there by walking.  
+You will get the money when you click to start  the next day, so don't worry.
+
 ## How to plant seeds
 This being a farming game, you will need to plant things.  
 Luckily, that is pretty easy.  
