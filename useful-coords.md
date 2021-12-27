@@ -41,3 +41,15 @@ This page contains some useful coordinates for each map.
 | Backwoods Entrance | 40x 0y | Entrance to backwoods map. | It's dimension is 2 by 1 but the alleyway starts from 40x 7y and 41x 7y | 40x 0y, 41x 0y |
 | Greenhouse | 28x 15y | Used to plant crops of any season at any time. | 6 by 7 | The four corners are at 25x 10y (top-left), 31x 10y (top-right), 31x 15y (bottom-right) and 25x 15y (bottom-left). |
 | Forest Entrance | 40x 64y | Entrance to forest map. | 2 by 1 | 40x 64y, 41x 64y |
+
+## Town
+
+| Name | Tile Position | Description | Dimension | All Coords |
+| ---- | ------------- | ----------- | --------- | ---------- |
+| Daily Quest | 42x 56y | Used to check and accept daily quests. | 1 by 1 | - |
+| Calendar | 41x 56y | Used to check birthdays and festival dates. | 1 by 1 | - |
+| Hospital Door | 36x 55y | Door for Harvey's clicnic / Hospital | 1 by 1 | - |
+| Seeds Shop Door | 43x 56y | Door for Pierre's General Store | 2 by 1 | 43x 56y, 44x 56y |
+| Saloon Door | 45x 70y | Door to Thr Stardrop Saloon | 1 by 1 | - |
+
+(more will be added soon)
