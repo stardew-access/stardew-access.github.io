@@ -51,7 +51,9 @@ This page contains some useful coordinates for each map.
 | Hospital Door | 36x 55y | Door for Harvey's clicnic / Hospital | 1 by 1 | - |
 | Seeds Shop Door | 43x 56y | Door for Pierre's General Store | 2 by 1 | 43x 56y, 44x 56y |
 | Saloon Door | 45x 70y | Door to The Stardrop Saloon | 1 by 1 | - |
+
 ## Mountain
+
 The entrance to the mines is at  
 X54,Y5, go north.  
 The exit out of the mines is at  
