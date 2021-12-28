@@ -62,5 +62,12 @@ When you're in the mine and you unlocked the elevator by going down five levels,
 X17 then go all the way up and press x.
 The entrance to the adventurers guild is at  
 X76,Y9.
+Once you're inside the guild,  
+go to X5,Y13  between 2PM and 10PM and press x, there's the shop.
+Gil is found at X10,Y13.
+
+## Forest
+Wizard's house  
+X5,Y27.
 
 (more will be added soon)
