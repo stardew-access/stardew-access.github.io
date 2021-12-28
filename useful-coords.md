@@ -60,5 +60,7 @@ The exit out of the mines is at
 X18,Y13.
 When you're in the mine and you unlocked the elevator by going down five levels, you find it by walking or warping to the mine, going to  
 X17 then go all the way up and press x.
+The entrance to the adventurers guild is at  
+X76,Y9.
 
 (more will be added soon)
