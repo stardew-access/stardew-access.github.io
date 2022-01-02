@@ -69,5 +69,7 @@ Gil is found at X10,Y13.
 ## Forest
 Wizard's house  
 X5,Y27.
+Robin's Axe
+x110,Y81
 
 (more will be added soon)
