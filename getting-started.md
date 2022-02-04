@@ -14,21 +14,52 @@ permalink: /getting-started/
 
 ## Table of Contents
 
-- [An audio and video demo of a screen reader user playing and explaining how things work](#an-audio-and-video-demo-of-a-screen-reader-user-playing-and-explaining-how-things-work)
-- [Creating a New Game](#creating-a-new-game)
-- [Creating your first character](#creating-your-first-character)
-- [Useful keys](#useful-keys)
-- [Menu navigation](#menu-navigation)
-- [Movement](#movement)
-- [The first days. Getting Started](#the-first-days-getting-started)
-- [Cleaning your farm with your tools](#cleaning-your-farm-with-your-tools)
-- [How to plant](#how-to-plant)
+1. [Video walkthroughs and guides](#video-walkthroughs-and-guides)
+1. [Feature Guides](#feature-guides)
+1. [Game Guides](#game-guides)
+    - [Creating a New Game](#creating-a-new-game)
+    - [Creating your first character](#creating-your-first-character)
+    - [Useful keys](#useful-keys)
+    - [Menu navigation](#menu-navigation)
+    - [Movement](#movement)
+    - [The first days. Getting Started](#the-first-days-getting-started)
+    - [Cleaning your farm with your tools](#cleaning-your-farm-with-your-tools)
+    - [how to travel around the SV world](#how-to-travel-around-the-sv-world)
+    - [How to find NPCs](#how-to-find-npcs)
+    - [How to shop](#how-to-shop)
+    - [How to sell](#how-to-sell)
+    - [How to plant seeds](#how-to-plant-seeds)
+    - [How to mine](#how-to-mine)
+    - [How to fight monsters](#how-to-fight-monsters)
+    - [How to customize your character](#How-to-customize-your-character)
 
 
-## An audio and video demo of a screen reader user playing and explaining how things work
- [Here's a link of one of the beta testers playing the game if you want to listen](https://www.youtube.com/watch?v=00L504aVXRY)
+## Video walkthroughs and guides
 
-## Creating a New Game
+- [By vol4life8657 or Access4All](https://youtube.com/playlist?list=PLExWgQUB-QT7tWumVTjAJETmgi6aWDJXs)
+- [By Story of A Blind Life](https://youtube.com/playlist?list=PLr-oqzdwNQ3w4gRQQMgDWK-5e8p7Q7F2A)
+
+## Feature Guides
+
+### Contructing buildings
+
+To construct buildings like silos, coops, barns, etc. you need to visit the Carpenter's shop, run by Robin in the Science house.
+
+Steps:-
+1. First we have to go to the farm and mark the position where you want to construct the building. Make sure the area is clear and bug enough for the building you want to construct.
+1. Go to the `Science House`, you can use debug ws robin to teleport both the player and Robin to the shop and now you can press `W` to make the player face the shop's cabin and then press `X` to open a dialogue box with options for `Shop`, `Upgrade House` and `Construct Farm Buildings`.
+1. Right now we are going to construct a building so we will select the 3rd option, use `w` and `a` to cycle through the options and `[` or `Ctrl Enter` to select it.
+1. Now the `Carpenter Menu` is opened, there are six buttons in this menu, from right to left, cancel, demolish, construct, move, next blueprint and previous blueprint buttons. 
+1. Select the blueprint which you want to construct using the next/previous blueprint buttons. It will speak the info about the blueprint when we change it but you can also press `B` to speak the info of the currently selected blueprint. Note that the info will also contain the dimensions of the building on farm.
+1. Once selected, you can navigate to the `construct` button and select it via `[` or `Ctrl enter`.
+1. Now the menu transitions to our farm and we can now open the command menu with `/` and enter the command `marklist`. This will list all positions that you have saved with `mark` command in different lines, open the command menu again with `/` and use `pageup` and `pagedown` to cycle through the list. Note the index of the position you want to construct the building at.
+1. Now open the command menu and enter `buildsel` command following with the index, for example, the index of the position where I wanted to construct a building was 0, so I entered `buildsel 0` , for you it could be different depending on what you entered with the `mark` command.
+1. If you had enough resources and the area you chose was clear of debris, then you will get a dialogue from Robin saying she will start the construction from tomorrow.
+
+## Game Guides
+
+### Creating a New Game
+
 Before we get into how to create a game and character, we want to remind you that the accessibility mod is still in beta.  
 There may be bugs so please report them and try not to get mad when sometimes things don't work.
 
@@ -51,7 +82,7 @@ Now try to use A and D.
 Your screenreader should say: New Button. Load Button.  
 If this is your first character, you will want to press left square brace on new.
 
-## Creating your first character
+### Creating your first character
 Great job so far, let's get your first character started.  
 In this menu, you navigate using the arrows.  
 When you press right arrow, it will ask you to write your farmer's name. Press left square brace then write it.  
@@ -71,7 +102,7 @@ Once the intro is done, you will find yourself inside your farmhouse.
 
 Nicely done, you just created your first Stardew Valley character.  
 
-## Useful keys 
+### Useful keys 
 Before you start playing, here are the keys that you will use:  
 W to move north.  
 S to move south.  
@@ -92,7 +123,7 @@ Left square brace [ is the key that becomes left click. You use it to accept que
 So you press left click on the axe, and you will hear a sound. you press d to move to the right where your can is. By pressing left click again you dropped the axe there and picked up the can.  
 Now you press a to go to the left and drop the water can.
 
-## Menu navigation
+### Menu navigation
 Navigating menus is done in different ways which will be covered in other sections of this guide, but right now I want to focus on the inventory menu.  
 You open it with e, but there's more to your inventory than the row of tools and objects that you will collect during your playtime.  
 To the right of your tools you will find the trashcan.  
@@ -114,7 +145,7 @@ In the collections menu you will see what things have been shipped and in what q
 The options menu isn't accessible yet.  
 And the exit game button is self explanatory. You can press on it and use s to see the options you have to quit.
 
-## Movement
+### Movement
 Movement in Stardew Valley is done, how I already mentioned using A, S, W and D.  
 If you want to move tile by tile, you press s and release your key. You won't hear footsteps all the time, that's still being worked on, but by checking your coordinates you will see that you moved.  
 If you didn't that means that there's something blocking your path.  
@@ -122,7 +153,7 @@ We recommend using your tools one by one to try to get rid of the obstacle.
 Usually using your hoe or scythe works, so try those first.  
 If you want to move more than one tile, hold down the key and you will hear your character moving.
 
-## The first days. Getting Started
+### The first days. Getting Started
 Now that you're in the game, you can start being a farmer.  
 To do this, you have to plant and to clean your farmland.
 
@@ -150,7 +181,7 @@ Now go east until you find your bed.
 A dialog should pop-up asking you if you want to sleep.  
 If you select yes, you will start the next day and the game will save. Going to sleep is the only way you save your current day so make sure that if you have to stop playing, you go to sleep.
 
-## Cleaning your farm with your tools
+### Cleaning your farm with your tools
 Using tools should be easy to understand.
 You have a farm and you need to clean it.  
 The easiest way is to go south of your farm until your coordinates stop changing, around 64, 61.  
@@ -158,7 +189,7 @@ So starting from 64 18, start using your tools on each tile and keep moving sout
 Then once you cleared that, move to the left or to the right and move up to 63 15 or 65 15 and keep repeating the process until you have enough plots cleared and enough crafting materials.  
 Remember to keep track of the time with q to be inside the house before midnight.  
 
-## how to travel around the SV world.  
+### how to travel around the SV world  
 While some of us will like to note down the coordinates of the maps and learn our way around the game and its various places, others will like to move fast and use teleport commands.  
 Remember when we said not to close the Smapi console that opens with the game?  
 One of the reasons is closing that console closes the game, but even more important, that console is great for many things, such as teleporting, finding npc coordinates and much more.  
@@ -175,14 +206,14 @@ debug warp shop (It will warp you to the seed shop)
 debug warp science (will warp you to Robin's shop)  
 debug warp mine shaft (once the mine unlocks in the game, you can type this command to trigger the scene where your character will receive a sword that is needed to kill the monsters in the mine.)
 
-## How to find NPC's
+### How to find NPCs
 All you have to do, if you need someone's coordinates is to type  
 debug where name.  
 
 Some of the names you will probably need are:  
 Pierre, Robin, Krobus, Sandy, Marnie, Clint, Gus, Willy, Pam, Dwarf, and Wizard.
 
-## How to shop
+### How to shop
 For the moments when you will need more inventory space, seeds or farm buildings, you will want to go to one of the NPC run shops.  
 To find the shops you can use the commands above or explore the town.  
 
@@ -190,7 +221,7 @@ When you are in the shop, you bring up the shop menu by pressing x.
 When that is pressed, you use w and s to choose whatever you want to buy then press left click to buy what you need.  
 Have fun!
 
-## How to sell
+### How to sell
 You've been fishing, planting, harvesting and maybe even mining, so why not make some money?  
 You can sell things by going to X72,Y17.  
 There you will hear a sound like a door opening.  
@@ -199,7 +230,7 @@ If you find something that you want to sell, left click on it to sell all of it 
 Once you're done, press e or escape to exit the menu then get out of there by walking.  
 You will get the money when you click to start  the next day, so don't worry.
 
-## How to plant seeds
+### How to plant seeds
 This being a farming game, you will need to plant things.  
 Luckily, that is pretty easy.  
 In your house you should find a chest.  
@@ -213,7 +244,7 @@ If you think that you may forget where your seed is, note down the coordinates s
 Repeat the process until you have no more seeds.  
 You can plant one seed per tilled soil.  
 
-## How to mine
+### How to mine
 Locate the mine by walking or warping to trigger the cut scene that will give your character a sword.  
 That will be required in the mine to kill mobs.
 
@@ -231,7 +262,7 @@ These ladders sometimes spawn when you kill a monster, when you mine stone or th
 
 Sometimes you will find barrels. To open them, break them with a tool from your inventory. I used my axe, but you can try to see what other tool works.
 
-## How to fight monsters
+### How to fight monsters
 You will find some monsters in the mine and in some other places later in the game and you can kill them.  
 That's why you should go through the cutscene to get the sword, it helps.  
 It's true that the damage on it isn't that big, but it's a good weapon when you begin.  
@@ -244,7 +275,7 @@ Fight back by selecting your sword and pressing c until that sound can't be hear
 When you succeed killing it, check your health and eat some food to bring it back up if you're badly hurt.  
 Side note, using the sword or the scythe doesn't drain your stamina.
 
-## How to customize your character
+### How to customize your character
 Currently  customizing your character in game isn't accessible, so until that is made accessible, here's how you can add some personal touches to your farmer.  
 By typing in the console player_changecolor and adding eyes or hair then an RGB color, you will change the color of your character's eyes or hair.  
 For example: player_changecolor eyes 255,0,0 would make your character's eyes red.  
