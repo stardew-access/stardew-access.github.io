@@ -56,6 +56,24 @@ Steps:-
 1. Now open the command menu and enter `buildsel` command following with the index, for example, the index of the position where I wanted to construct a building was 0, so I entered `buildsel 0` , for you it could be different depending on what you entered with the `mark` command.
 1. If you had enough resources and the area you chose was clear of debris, then you will get a dialogue from Robin saying she will start the construction from tomorrow.
 
+### Upgrade or Paint or Demolish Buildings
+
+1. Go to the `Science House`, you can use debug ws robin to teleport both the player and Robin to the shop and now you can press `W` to make the player face the shop's cabin and then press `X` to open a dialogue box with options for `Shop`, `Upgrade House` and `Construct Farm Buildings`.
+1. Right now we are going to construct a building so we will select the 3rd option, use `w` and `a` to cycle through the options and `[` or `Ctrl Enter` to select it.
+1. Now the `Carpenter Menu` is opened, there are six buttons in this menu, from right to left, cancel, demolish, construct, move, next blueprint and previous blueprint buttons. 
+1. To upgrade, select the approprite blueprint using the next/previous blueprint buttons, for example, big coop. Once again, you can press `B` to speak the info of the currently selected blueprint. Now select the `construct` button.
+1. For Demolishing, you don't have to select the blueprint, you can select the `demolish` button right away.
+1. Now the menu transitions to our farm and we can now open the command menu with `/` and enter the command `buildlist`. This will list all buildings on your farm in different lines, open the command menu again with `/` and use `pageup` and `pagedown` to cycle through the list. Note the index of the building you want to upgrade/demolish.
+1. Now open the command menu and enter `buildsel` command following with the index, for example, the index of the `coop` was 3 for me, so I entered `buildsel 3` , for you it could be different depending on what you entered with the `mark` command.
+1. If all goes well, Robin will once tell you that she will start working on the upgrade tomorrow or you will hear a sound explosion sound for demolishing.
+
+### Moving Buildings
+
+Moving buildings is similar to constructing and upgrading building. In this, you have to first mark the position where you want to move a building then go to Robin, open the `Carpenter Menu` and select the `Move` button.
+Then find the index of the building you wnat to move with `buildlist` command and then enter the `buildsel` command like this, `buildsel 3 0`.
+Here `3` is the index of the building we want to move and `0` is the index of the position we save with `mark` command.
+It will then move the building if possible.
+
 ## Game Guides
 
 ### Creating a New Game
