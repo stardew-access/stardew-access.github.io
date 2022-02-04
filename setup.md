@@ -17,10 +17,8 @@ This is the setup guide for both smapi and stardew access. Will be adding steps 
 ## Table of Contents
 
 1. [Quick Links](#quick-links)
-1. [An audio and video demo of a screen reader user playing and explaining how things work](#An-audio-and-video-demo-of-a-screen-reader-user-playing-and-explaining-how-things-work)
 1. [Requirements](#requirements)
 1. [SMAPI Installation Guide](#smapi-installation-guide)
-1. [AutoHotKey Installation Guide](#autohotkey-installation-guide)
 1. [Mod Installation](#mod-installation)
 1. [Instructions to Set up the Glue Your Furniture Down mod](#instructions-to-set-up-the-glue-your-furniture-down-mod)
 
@@ -30,13 +28,14 @@ This is the setup guide for both smapi and stardew access. Will be adding steps 
 - [Stardew Valley Forum](https://forums.stardewvalley.net/resources/stardew-access.88/)
 - [Nexus Mods](https://www.nexusmods.com/stardewvalley/mods/10319)
 
-## An audio and video demo of a screen reader user playing and explaining how things work
- [Here's a link of one of the beta testers playing the game if you want to listen](https://www.youtube.com/watch?v=00L504aVXRY)
-
 ## Requirements
 
 1. SMAPI - [smapi installation guide](#smapi-installation-guide)
-1. AutoHotKey - [autohotkey installation guide](#autohotkey-installation-guide)
+
+Here are some recommend mods but they can be kinda required:-
+1. [Chat Commands](https://www.nexusmods.com/stardewvalley/mods/2092) - This mod let's us use the commands using the game's chat menu, which is opened by `T` key. You have to prepend each command with `/`. Alternatively, you can press `/` and it will open the command menu and then you won't have to prepend commands with `/`.
+1. [Accessible Tiles](https://grumpycrouton.com/other/AccessibleTiles.zip) - Let's us move tile-by-tile using the arrow keys and d-pad buttons. This mod is developed by GrumpyCrouton, join the discord server to get updates for this mod as well.
+1. [Auto Travel](https://www.nexusmods.com/stardewvalley/mods/10693) - Let's us mark points on map and make the player auto travel to it using a menu or commands. Also developed by GrumpyCrouton.
 
 ## SMAPI Installation Guide
 
@@ -62,11 +61,6 @@ This is the setup guide for both smapi and stardew access. Will be adding steps 
         
 *(Installation for GOG Galaxy and Xbox app will be added soon. For now you can refer to [this guide](https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Windows))*
 
-## AutoHotKey Installation Guide
-
-1. Download the [latest version](https://www.autohotkey.com/)
-1. Follow the steps in the installer and it's installed.
-
 ## Stardew Accessibility Mod Installation
 
 1. Download the latest mod through [GitHub](https://github.com/stardew-access/stardew-access/releases/), [Stardew Valley Forum](https://forums.stardewvalley.net/resources/stardew-access.88/) or [Nexus Mods](https://www.nexusmods.com/stardewvalley/mods/10319)
@@ -74,24 +68,25 @@ This is the setup guide for both smapi and stardew access. Will be adding steps 
 1. Move the `stardew-access` folder into the Mods folder in the `Stardew Valley` game folder. Your mod is now installed.
 
 ## Instructions to Set up the Glue Your Furniture Down mod
+
 Once set up, this mod prevents your character from accidentally picking up the bed, fireplace, rugs and table in your house.  
 We suggest you install it, because placing the bed down again is a little hard, and you will need the bed at the end of every day.
 
-Download the [Glue Your Furniture Down Mod](https://www.nexusmods.com/stardewvalley/mods/10374)  
-Note: You need an account to download the mods, and you can also follow the updates if you want.  
-To download, once you have an account, click on the link called manual, then look for the download button.  
-Once downloaded, unzip the folder,  
-Copy the GlueFurnitureDown folder and paste it in the mods folder.  
-Don't paste it in the accessibility mod folder, but in the mods folder.  
-Run the game so a file called config.JSON file could be generated.  
-Close the game.  
-Open that file with notepad.  
-You will see text like this:  
+Steps:-
+1. Download the [Glue Your Furniture Down Mod](https://www.nexusmods.com/stardewvalley/mods/10374)  
+*(Note: You need an account to download the mods, and you can also follow the updates if you want.)*
+1. To download, once you have an account, click on the link called manual, then look for the download button.  
+1. Once downloaded, unzip the folder,  
+1. Copy the GlueFurnitureDown folder and paste it in the mods folder.  
+1. Don't paste it in the accessibility mod folder, but in the mods folder.  
+1. Run the game so a file called config.JSON file could be generated.  
+1. Close the game.  
+1. Open that file with notepad.  
+1. You will see text like this:  
   "CanPickUpBed": true,  
-"CanPickUpChair": true,  
-"CanPickUpTable": true,  
-And so on. 
-
-What you have to do is edit the file. If you don't want to pick up your bed and believe me you don't, change the word true with false. Don't delete anything else, just that word and replace it with false.  
-Do the same to all the things that you don't want to pick up.  
-Save the file and congrats, no more picking up your furniture accidentally.
+  "CanPickUpChair": true,  
+  "CanPickUpTable": true,  
+  And so on. 
+1. What you have to do is edit the file. If you don't want to pick up your bed and believe me you don't, change the word true with false. Don't delete anything else, just that word and replace it with false.  
+1. Do the same to all the things that you don't want to pick up.  
+1. Save the file and congrats, no more picking up your furniture accidentally.
