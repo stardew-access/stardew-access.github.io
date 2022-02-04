@@ -1,6 +1,6 @@
 # Stardew Access
 
-An accessibility mod for Stardew Valley with screen reader and keyboard only support. Currently only for windows.
+An accessibility mod for Stardew Valley with screen reader and keyboard only support. Currently only for windows and linux.
 Before we talk about the mod, let's see what actually is Stardew Valley.
 
 ## What is Stardew Valley?
@@ -10,7 +10,7 @@ Stardew Valley is an open-ended country-life RPG! You’ve inherited your grandf
 
 ## What can the mod do?
 
-Well currently the mod has a keybind that narrates health and stamina/energy and a keybind that narrates the current tile position of the player. The mod also reads all the various dialogues including the ones which have a choice in them. Most of the menus are accessible with some of them having a shortcut keybind. Read tile feature detects and narrates the objects, crops and stuff on the tile the player is looking at, which is usually the tile adjacent to the player's position according to the direction the player is facing. And the Snap Mouse feature snaps the mouse cursor to the tile that read til feature uses. With the latest update, footstep sounds now stop when the player is colliding. These are all the features provided currently but here are the future features, tile-by-tile movement will be added for better navigation, making the rest of the menus accessible, sound cues for nearby objects and NPCs and hopefully a path finder thing.
+There are keybinds that tell us the player's health, stamina, money, etc. Menus are also accessible, although some of them are not accessible at the moment but they will be in the next few updates. A feature called `Read Tile` which tells us the name of the object on the tile, if the object is crop then it will also tell us if the crop is harvestable. There's also a feature which `Radar` which plays a sound at objects nearby, since stardew valley does not support stereo sound, it is not that helpful in locating objects but this combined with a `Path Finding` feature in the future will make locating of objects like forages easier. There are also keybinds and commands specific to some menus so do check out the lists for both in [Mod Details](/mod-details) page.
 
 ## Contact
 
