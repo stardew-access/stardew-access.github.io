@@ -28,6 +28,9 @@ You can post issues or suggestions in GitHub or Discord. I prefer Discord.
     - [Menus With Inventory keys](#menus-with-inventory-keys)
     - [Junimo Note or Community Center Menu](#junimo-note-or-community-center-menu)
     - [Carpenter Menu key](#carpenter-menu-key)
+1. [New Commands](#new-commands)
+1. [Features](#features)
+1. [Future Features](#future-features)
 
 ## New Keybindings
 
