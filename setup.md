@@ -63,7 +63,7 @@ Here are some recommend mods but they can be kinda required:-
 
 ## Stardew Accessibility Mod Installation
 
-1. Download the [latest mod version] (https://github.com/stardew-access/stardew-access/releases/latest/download/stardew-access.zip)
+1. Download the [latest mod version](https://github.com/stardew-access/stardew-access/releases/latest/download/stardew-access.zip)
 1. Extract the zip.
 1. Move the `stardew-access` folder into the Mods folder in the `Stardew Valley` game folder. Your mod is now installed.
 
