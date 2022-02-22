@@ -25,8 +25,7 @@ This is the setup guide for both smapi and stardew access. Will be adding steps 
 ## Quick Links
 
 - [Source Code at GitHub](https://github.com/stardew-access/stardew-access)
-- [Stardew Valley Forum](https://forums.stardewvalley.net/resources/stardew-access.88/)
-- [Nexus Mods](https://www.nexusmods.com/stardewvalley/mods/10319)
+- [Download Latest Version](https://github.com/stardew-access/stardew-access/releases/latest/download/stardew-access.zip)
 
 ## Requirements
 
@@ -61,7 +60,7 @@ Here are some recommend mods but they can be kinda required:-
         
 *(Installation for GOG Galaxy and Xbox app will be added soon. For now you can refer to [this guide](https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Windows))*
 
-## Stardew Accessibility Mod Installation
+## Mod Installation
 
 1. Download the [latest mod version](https://github.com/stardew-access/stardew-access/releases/latest/download/stardew-access.zip)
 1. Extract the zip.
