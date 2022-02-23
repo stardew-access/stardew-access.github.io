@@ -19,12 +19,14 @@ This page contains some useful coordinates for each map.
 - [Farm House](#farm-house)
 - [Farm](#farm)
 - [Town](#town)
-
+- [community center](#community center)
+- [Traveling cart](#Traveling Cart)
 ## Farm House
 
 | Name | Tile Position | Description | Dimension | All Coords |
 | ---- | ------------- | ----------- | --------- | ---------- |
-| Bed | 10x 9y | It is used to sleep.|  It's dimension is 2 by 3 but to trigger the sleep dialogue, you have to be at the given tile. | 9x 8y, 10x 8y, 9x 9y, 10x 9y, 9x 10y, 10x 10y |
+| Bed | 10x 9y | It is used to sleep.  
+It's dimension is 2 by 3 but to trigger the sleep dialogue, you have to be at the given tile. | 9x 8y, 10x 8y, 9x 9y, 10x 9y, 9x 10y, 10x 10y |
 | Starter Chest | 3x 7y | It contains 15 parsnip seeds for you to start the game. | 1 by 1 | - |
 | TV | 1x 5y | Used to check weather, luck, new recipies and some tips | 2 by 2 | 1x 4y, 2x 4y, 1x 5y, 2x 5y |
 | Fireplace | 8x 4y | Used to provide light in the house | 2 by 1 | 8x 4y, 9x 4y |
@@ -52,7 +54,16 @@ This page contains some useful coordinates for each map.
 | Seeds Shop Door | 43x 56y | Door for Pierre's General Store | 2 by 1 | 43x 56y, 44x 56y |
 | Saloon Door | 45x 70y | Door to The Stardrop Saloon | 1 by 1 | - |
 | Blacksmith | 94x 81y | Door to the blacksmith (Have to walk across the river via the bridge at coord 70X 53Y. Walk Right) | 1 by 1 | - |
-| Quest Board | 62x 94y | Updated board (in front of Mayer Lewis house after a cutseen event) | 3 by 1 | - |
+| Quest Board | 62x 94y | Updated board (in front of Mayor Lewis house after a cutscene event) | 3 by 1 | - |
+
+## community center
+Bundle Locations:  
+14x 5y = Pantry,  
+14x 23y = Crafts Room,  
+40x 10y = Fish Tank,  
+63x 14y = Boiler Room,  
+55x 6y = Vault  
+and 46x 11y = Bulletin Board.
 
 ## Mountain
 
@@ -73,5 +84,8 @@ Wizard's house
 X5,Y27.
 Robin's Axe
 x110,Y81
+## Traveling Cart
+The traveling cart can be found at  
+27, 12.
 
 (more will be added soon)

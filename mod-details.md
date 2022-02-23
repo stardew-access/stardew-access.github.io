@@ -59,7 +59,7 @@ You can post issues or suggestions in GitHub or Discord. I prefer Discord.
 | --- | ----------- |
 | I | Select the first item in chest inventory/crafting recipe/item to buy |
 | Shift I | select the first item in the player's inventory |
-| C | (Only in crafting page) Cycle through the available recipies in the current recipe lists |
+| C | (Only in crafting page) Cycle through the available recipes in the current recipe lists |
 
 ### Junimo Note or Community Center Menu
 
@@ -111,7 +111,7 @@ You can post issues or suggestions in GitHub or Discord. I prefer Discord.
 
 1. Screen Reader:- It supports NVDA and JAWS currently and it uses speech dispatcher for linux so all the screen readers supported by it should be supported by the mod.
 1. Read Tile:- This feature reads the objects and NPCs at the current grab/tool hit tile. Use `read_tile` command to toggle it. It also plays a sound if we collide. This feature is `enabled` by default. You can also manually trigger this feature with `J`.
-1. Time and Day Narraotr:- It narrates current the time of day, day, date and season. The keybind for this is `Q`.
+1. Time and Day Narrator:- It narrates current the time of day, day, date and season. The keybind for this is `Q`.
 1. Menus:- Almost all the menus are accessible, only a few are left like the profile menu and few menus related co-op and few text input menus.
 1. Keyboard-Only:- We can simulate left and right mouse clicks in the menus(only).
 1. Money Narrator:- It narrates the money you have. The keybind for this is `R`.
