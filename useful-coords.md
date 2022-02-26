@@ -21,6 +21,7 @@ This page contains some useful coordinates for each map.
 - [Town](#town)
 - [community center](#community center)
 - [Traveling cart](#Traveling Cart)
+- [submarine](#submarine)
 ## Farm House
 
 | Name | Tile Position | Description | Dimension | All Coords |
@@ -87,5 +88,9 @@ x110,Y81
 ## Traveling Cart
 The traveling cart can be found at  
 27, 12.
+## submarine
+The submarine that appears during the night market can be found with the help of accessible tiles. Once you're inside and You pay the captain for the fishing trip, you will go underwater.  
+The coordinates from where you can start fishing facing north are:  
+(x) 16, (y) 13.
 
 (more will be added soon)
