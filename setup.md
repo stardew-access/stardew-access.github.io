@@ -19,6 +19,7 @@ This is the setup guide for both smapi and stardew access. Will be adding steps 
 1. [Quick Links](#quick-links)
 1. [Requirements](#requirements)
 1. [Recommended Mods](#recommended-mods)
+1. [Additional Mods](#additional-mods)
 1. [Installing SMAPI for Steam](#installing-smapi-for-steam)
 1. [Installing SMAPI for Gamepass](#installing-smapi-for-gamepass)
 1. [Mod Installation](#mod-installation)
@@ -33,7 +34,7 @@ This is the setup guide for both smapi and stardew access. Will be adding steps 
 
 1. SMAPI - [smapi installation guide](#smapi-installation-guide)
 
-##Additional Mods
+## Additional Mods
 
 Here are some recommended mods that are not apart of Stardew Access that can improve your play experience:
 
