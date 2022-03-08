@@ -18,9 +18,9 @@ This is the setup guide for both smapi and stardew access. Will be adding steps 
 
 1. [Quick Links](#quick-links)
 1. [Requirements](#requirements)
-1. [Recommended Mods](#Recommended-Mods)
-1. [Installing SMAPI for Steam](#Installing-SMAPI-for-Steam)
-1. [Installing SMAPI for Gamepass](#Installing-SMAPI-for-Gamepass)
+1. [Recommended Mods](#recommended-mods)
+1. [Installing SMAPI for Steam](#installing-smapi-for-steam)
+1. [Installing SMAPI for Gamepass](#installing-smapi-for-gamepass)
 1. [Mod Installation](#mod-installation)
 1. [Instructions to Set up the Glue Your Furniture Down mod](#instructions-to-set-up-the-glue-your-furniture-down-mod)
 
@@ -43,7 +43,7 @@ Here are some recommended mods that are not apart of Stardew Access that can imp
 1. [Accessible Tiles](https://grumpycrouton.com/other/AccessibleTiles.zip): Allows us to move tile-by-tile using the arrow keys and d-pad buttons on a controller. This mod is developed by GrumpyCrouton, join the Stardew Access discord server to get updates for this mod as well.
 1. [Auto Travel](https://www.nexusmods.com/stardewvalley/mods/10693): Allows us to mark points on map and make the player auto travel to it using a menu or commands. Also developed by GrumpyCrouton.
 
-##Installing SMAPI for Steam
+## Installing SMAPI for Steam
 
 1. Run Stardew Valley at least once before following the steps ahead to generate necessary files.
 1. Download the [latest version](https://smapi.io/)
@@ -65,7 +65,7 @@ Here are some recommended mods that are not apart of Stardew Access that can imp
         - Note that `\<SVPath\>\StardewModdingAPI.exe` is surrounded by double-quotes.
         - This text is also shown in the SMAPI installer terminal window after the installation process is completed
         
-##Installing Smapi for Gamepass
+## Installing Smapi for Gamepass
 
 1. Run Stardew Valley at least once before following the steps ahead to generate necessary files.
 1. Download the [latest version](https://smapi.io/)
