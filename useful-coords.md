@@ -20,8 +20,10 @@ This page contains some useful coordinates for each map.
 - [Farm](#farm)
 - [Town](#town)
 - [community center](#community center)
+- [Beach](#Beach)
 - [Traveling cart](#Traveling Cart)
-- [submarine](#submarine)
+- [Submarine](#Submarine)
+- [The Desert](#The Desert)
 ## Farm House
 
 | Name | Tile Position | Description | Dimension | All Coords |
@@ -65,7 +67,9 @@ Bundle Locations:
 63x 14y = Boiler Room,  
 55x 6y = Vault  
 and 46x 11y = Bulletin Board.
-
+## Beach
+To repair the bridge, you go at  
+x57, y13.
 ## Mountain
 
 The entrance to the mines is at  
@@ -88,9 +92,14 @@ x110,Y81
 ## Traveling Cart
 The traveling cart can be found at  
 27, 12.
-## submarine
+## Submarine
 The submarine that appears during the night market can be found with the help of accessible tiles. Once you're inside and You pay the captain for the fishing trip, you will go underwater.  
 The coordinates from where you can start fishing facing north are:  
 (x) 16, (y) 13.
+## The Desert
+The pillars can be found at  
+X37, Y11.  
+The Desert trader is located at  
+X42, Y23.
 
 (more will be added soon)
