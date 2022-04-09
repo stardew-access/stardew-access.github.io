@@ -9,10 +9,10 @@ This page contains some useful coordinates for each map.
 
 ## Other Pages
 
+- [Home](/)
 - [Setup](/setup)
 - [Mod Details](/mod-details)
-- [Getting Started](/getting-started)
-- [Home](/)
+- [Guides](/getting-started)
 
 ## Table of Contents
 
