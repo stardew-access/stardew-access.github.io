@@ -7,16 +7,20 @@ permalink: /getting-started/
 
 ## Other Pages
 
+- [Home](/)
 - [Setup](/setup)
 - [Mod Details](/mod-details)
 - [Useful Coords](/useful-coords)
-- [Home](/)
 
 ## Table of Contents
 
 1. [Video walkthroughs and guides](#video-walkthroughs-and-guides)
 1. [Feature Guides](#feature-guides)
-1. [Game Guides](#game-guides)
+    - [Farm Building Related](#farm-building-related) 
+        - [Constructing buildings](#constructing-buildings)
+        - [Upgrade or Paint or Demolish Buildings](#upgrade-or-paint-or-demolish-buildings)
+        - [Moving Buildings](#moving-buildings)
+1. [Gameplay Guides](#gameplay-guides)
     - [Creating a New Game](#creating-a-new-game)
     - [Creating your first character](#creating-your-first-character)
     - [Useful keys](#useful-keys)
@@ -31,7 +35,7 @@ permalink: /getting-started/
     - [How to plant seeds](#how-to-plant-seeds)
     - [How to mine](#how-to-mine)
     - [How to fight monsters](#how-to-fight-monsters)
-    - [Mods that work with Stardew Access](#Mods that work with Stardew Access)
+    - [Mods that work with Stardew Access](#mods-that-work-with-stardew-access)
     - [How to customize your character](#How-to-customize-your-character)
 
 
@@ -42,7 +46,8 @@ permalink: /getting-started/
 
 ## Feature Guides
 
-### Constructing buildings
+### Farm Building Related
+#### Constructing buildings
 
 To construct buildings like silos, coops, barns, etc. you need to visit the Carpenter's shop, run by Robin in the Science house.
 
@@ -61,7 +66,7 @@ Note that the info will also contain the dimensions of the building on farm.
 `buildsel` command followed by the index, for example, the index of the position where I wanted to construct a building was 0, so I entered `buildsel 0` , for you it could be different depending on what you entered with the `mark` command.
 1. If you had enough resources and the area you chose was clear of debris, then you will get a dialogue from Robin saying she will start the construction from tomorrow.
 
-### Upgrade or Paint or Demolish Buildings
+#### Upgrade or Paint or Demolish Buildings
 
 1. Go to the `Science House`, you can use debug ws robin to teleport both the player and Robin to the shop and now you can press `W` to make the player face the shop's cabin and then press `X` to open a dialogue box with options for `Shop`, `Upgrade House` and `Construct Farm Buildings`.
 1. Right now we are going to construct a building so we will select the 3rd option, use `w` and `a` to cycle through the options and `[` or `Ctrl Enter` to select it.
@@ -72,14 +77,14 @@ Note that the info will also contain the dimensions of the building on farm.
 1. Now open the command menu and enter `buildsel` command following with the index, for example, the index of the `coop` was 3 for me, so I entered `buildsel 3` , for you it could be different depending on what you entered with the `mark` command.
 1. If all goes well, Robin will once tell you that she will start working on the upgrade tomorrow or you will hear a sound explosion sound for demolishing.
 
-### Moving Buildings
+#### Moving Buildings
 
 Moving buildings is similar to constructing and upgrading buildings. In this, you have to first mark the position where you want to move a building then go to Robin, open the `Carpenter Menu` and select the `Move` button.
 Then find the index of the building you wnat to move with `buildlist` command and then enter the `buildsel` command like this, `buildsel 3 0`.
 Here `3` is the index of the building we want to move and `0` is the index of the position we save with `mark` command.
 It will then move the building if possible.
 
-## Game Guides
+## Gameplay Guides
 
 ### Creating a New Game
 
