@@ -10,7 +10,7 @@ Stardew Valley is an open-ended country-life RPG! You’ve inherited your grandf
 
 ## What can the mod do?
 
-There are keybinds that tell us the player's health, stamina, money, etc. Menus are also accessible, although some of them are not accessible at the moment but they will be in the next few updates. A feature called `Read Tile` which tells us the name of the object on the tile, if the object is crop then it will also tell us if the crop is harvestable. There's also a feature which `Radar` which plays a sound at objects nearby, since stardew valley does not support stereo sound, it is not that helpful in locating objects but this combined with a `Path Finding` feature in the future will make locating of objects like forages easier. There are also keybinds and commands specific to some menus so do check out the lists for both in [Mod Details](/mod-details) page.
+Well, the game is 80-90% accessible at the moment, all the basic menus are accessible and some of the late game menus are not accessible but will be in the next few updates. There are keybinds that tell us the player's health, stamina, money, etc. A feature called `Read Tile` which tells us the name of the object on the tile, if the object is crop then it will also tell us if the crop is harvestable. There's also a feature which `Radar` which plays a sound at objects nearby, since stardew valley does not support stereo sound, it is not that helpful in locating objects but this combined with a `Path Finding` feature in the [Accessible Tiles] (https://github.com/GrumpyCrouton/SDV-AccessibleTiles) will make locating of objects and NPCs like forages easier. There are also keybinds and commands specific to some menus so do check out the lists for both in [Mod Details](/mod-details) page.
 
 ## Contact
 
@@ -20,5 +20,5 @@ If you want to contact me, whether it be for reporting any bugs or suggesting a 
 
 - [Setup](/setup)
 - [Mod Details](/mod-details)
-- [Getting Started](/getting-started)
+- [Guides](/getting-started)
 - [Useful Coords](/useful-coords)
