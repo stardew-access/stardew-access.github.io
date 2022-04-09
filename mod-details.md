@@ -15,9 +15,9 @@ You can post issues or suggestions in GitHub or Discord. I prefer Discord.
 
 ## Other Pages
 
-- [Setup](/setup)
-- [Getting Started](/getting-started)
 - [Home](/)
+- [Setup](/setup)
+- [Guides](/getting-started)
 - [Useful Coords](/useful-coords)
 
 ## Table of Content
@@ -116,7 +116,3 @@ You can post issues or suggestions in GitHub or Discord. I prefer Discord.
 1. Keyboard-Only:- We can simulate left and right mouse clicks in the menus(only).
 1. Money Narrator:- It narrates the money you have. The keybind for this is `R`.
 1. Snap Mouse:- This feature snaps mouse to the focused tile's position. Use `snap_mouse` to toggle it. This feature is `enabled` by default.
-
-## Future Features
-
-1. Path Finder - Searches for nearby objects and opens up a menu in which we can select where to go.
