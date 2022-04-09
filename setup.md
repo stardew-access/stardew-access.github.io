@@ -9,9 +9,9 @@ This is the setup guide for both smapi and stardew access. Will be adding steps 
 
 ## Other Pages
 
-- [Mod Details](/mod-details)
-- [Getting Started](/getting-started)
 - [Home](/)
+- [Mod Details](/mod-details)
+- [Guides](/getting-started)
 - [Useful Coords](/useful-coords)
 
 ## Table of Contents
@@ -51,7 +51,7 @@ Here are some recommended mods that are not apart of Stardew Access that can imp
 1. Extract the zip file and run the "Windows.bat" file.
 1. Follow the instructions and normally it will detect the game's folder automatically.
 1. If you don't want the achievements and all, you can skip the following steps and launch the `StardewModdingAPI.exe` in the game's folder.
-1. Follow the steps to setup steam achievements:-
+1. Follow the steps to setup steam achievements, if you don't want steam achievements and tracking, you can skip this step and launch the game from the `StardewModdingAPI.exe`:-
     - Go to your library and right click on stardew valley and open "properties" from the drop down menu.
     - Navigate to `Launch Options` in the `General` tab
     - Now if you have installed Stardew Valley in the default steam downloads then copy and paste the following text into the Launch Options text box.
