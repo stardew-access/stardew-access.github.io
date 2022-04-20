@@ -20,5 +20,5 @@ If you want to contact me, whether it be for reporting any bugs or suggesting a 
 
 - [Setup](/setup)
 - [Mod Details](/mod-details)
-- [Guides](/getting-started)
+- [Guides](/guides)
 - [Useful Coords](/useful-coords)
