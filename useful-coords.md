@@ -12,7 +12,7 @@ This page contains some useful coordinates for each map.
 - [Home](/)
 - [Setup](/setup)
 - [Mod Details](/mod-details)
-- [Guides](/getting-started)
+- [Guides](/guides)
 
 ## Table of Contents
 
