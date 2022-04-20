@@ -1,9 +1,9 @@
 ---
-title: Getting Started
-permalink: /getting-started/
+title: Guides
+permalink: /guides/
 ---
 
-# Getting Started
+# Guides
 
 ## Other Pages
 
