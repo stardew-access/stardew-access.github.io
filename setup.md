@@ -11,7 +11,7 @@ This is the setup guide for both smapi and stardew access. Will be adding steps 
 
 - [Home](/)
 - [Mod Details](/mod-details)
-- [Guides](/getting-started)
+- [Guides](/guides)
 - [Useful Coords](/useful-coords)
 
 ## Table of Contents
