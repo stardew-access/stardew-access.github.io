@@ -1,8 +1,14 @@
-# Stardew Access
+# Stardew Access <!-- omit in toc -->
 
 An accessibility mod for Stardew Valley for Windows and linux with features like screen reader support for menus, chat, etc, read tile, keybinds to speak certain information like time, money, current location, etc.
 
 Feel free to report any issue or new feature suggestion over on the [issues](https://github.com/stardew-access/stardew-access/issues) page.
+
+## Table of Contents <!-- omit in toc -->
+
+- [Where to buy Stardew Valley](#where-to-buy-stardew-valley)
+- [Sites you may find helpful](#sites-you-may-find-helpful)
+- [Pages](#pages)
 
 ## Where to buy Stardew Valley
 
@@ -21,7 +27,7 @@ Stardew Valley is available on [Steam](https://store.steampowered.com/app/413150
 
 Other pages on this wiki:-
 <!-- #TODO add details about each page -->
-- [Setup](/setup) 
+- [Mod Setup](/mod-setup) 
 - [Mod Details](/mod-details)
 - [Guides](/guides)
 - [Useful Coords](/useful-coords)
