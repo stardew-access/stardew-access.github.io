@@ -12,7 +12,7 @@ Feel free to report any issue or new feature suggestion over on the [issues](htt
 
 ## Where to buy Stardew Valley
 
-Stardew Valley is available on [Steam](https://store.steampowered.com/app/413150/Stardew_Valley/), [GoG](https://www.gog.com/en/game/stardew_valley) and from microsoft store or through xbox gamepass. The recommended platform to buy the game is Steam though it is not much accessible. There is a guide on how to install games in steam - [here](#TODO-add-link-here), and there is also a guide on how to set it up for mods on each platforms - [here](#TODO-add-link-here).
+Stardew Valley is available on [Steam](https://store.steampowered.com/app/413150/Stardew_Valley/), [GoG](https://www.gog.com/en/game/stardew_valley) and from microsoft store or through xbox gamepass. The recommended platform to buy the game is Steam though it is not much accessible. There is a guide on how to install games in steam - [here](https://www.mail-archive.com/audiogames-reflector@sabahattin-gucukoglu.com/msg291641.html), and there is also a guide on how to set it up for mods on each platforms - [here](/setup#smapi-setup).
 
 ## Sites you may find helpful
 
