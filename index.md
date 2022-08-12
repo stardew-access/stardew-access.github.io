@@ -1,3 +1,8 @@
+---
+title: Home
+permalink: /
+---
+
 # Stardew Access <!-- omit in toc -->
 
 An accessibility mod for Stardew Valley for Windows and linux with features like screen reader support for menus, chat, etc, read tile, keybinds to speak certain information like time, money, current location, etc.
