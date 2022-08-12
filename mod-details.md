@@ -3,116 +3,248 @@ title: Mod Details
 permalink: /mod-details/
 ---
 
-# Mod Details
+# Mod Details <!-- omit in toc -->
 
-## Description
+This page contains details about the new feature, keybinds and commands.
 
-A mod that adds screen reader and keyboard only support for windows. Trying to make the game more accessible.
+*Note that the keybinds can be remapped from the config file, you follow [this](#TODO-add-this) guide.*
 
-You can post issues or suggestions in GitHub or Discord. I prefer Discord.
-
-| [Discord](https://discord.gg/yQjjsDqWQX) | [GitHub Discussions](https://github.com/stardew-access/stardew-access/discussions) | [GitHub Issues](https://github.com/stardew-access/stardew-access/issues)
-
-## Other Pages
+## Other Pages <!-- omit in toc -->
 
 - [Home](/)
-- [Setup](/setup)
+- [Setup](/mod-setup)
 - [Guides](/guides)
 - [Useful Coords](/useful-coords)
 
-## Table of Content
+## Table of Content <!-- omit in toc -->
 
-1. [New Keybindings](#new-keybindings)
-    - [Global Keys](#global-keys)
-    - [New Game or Charachter Customization menu keys](#new-game-or-charachter-customization-menu-keys)
-    - [Menus With Inventory keys](#menus-with-inventory-keys)
-    - [Junimo Note or Community Center Menu](#junimo-note-or-community-center-menu)
-    - [Carpenter Menu key](#carpenter-menu-key)
-1. [New Commands](#new-commands)
-1. [Features](#features)
-1. [Future Features](#future-features)
-
-## New Keybindings
-
-### Global keys
-
-| Key | Description |
-| --- | ----------- |
-| H | Narrate health and stamina. |
-| K | Narrate player position. |
-| [ or Ctrl Enter | Simulate mouse left click |
-| ] or Shift Enter | Simulate mouse right click |
-| Q | Narrates the time of day, day and date and season |
-| R | Narrates the money the player has |
-| J | Manually trigger Read Tile |
-
-### New Game or Charachter Customization menu keys
-
-| Key | Description |
-| --- | ----------- |
-| Right Arrow Key | (only for new game menu) Next UI element. |
-| Left Arrow Key | (only for new game menu) Previous UI  |
-
-### Menus With Inventory keys
-
-| Key | Description |
-| --- | ----------- |
-| I | Select the first item in chest inventory/crafting recipe/item to buy |
-| Shift I | select the first item in the player's inventory |
-| C | (Only in crafting page) Cycle through the available recipes in the current recipe lists |
-
-### Junimo Note or Community Center Menu
-
-| Key | Description |
-| --- | ----------- |
-| I | Cycle through the ingredients in the current selected bundle |
-| C | Cycle through the items in the player's inventory |
-| V | Cycle through the ingredient input slots |
-| P | Move the mouse cursor to purchase button |
-| Backspace | Move the mouse cursor to back button |
-
-### Carpenter Menu key
-
-| Key | Description |
-| --- | ----------- |
-| B | Speak the info about the current blueprint |
-
-## New Commands
-
-| Command | Description | Special Syntax (If any) | Argument details (If any) | Example |
-| --- | ----------- | --- | --- | --- |
-| readtile | Toggle Read Tile feature | | | readtile |
-| radar | Toggle Radar feature | | | radar |
-| rdebug | Toggle debugging in radar feature | | | rdebug |
-| rstereo | Toggle stereo sound in radar feature | | | rstereo |
-| rfocus | Toggle focus mode in radar feature | | | rfocus |
-| rdelay | Set the delay of radar feature in milliseconds | rdelay [Delay:milliseconds] |  Delay: In milliseconds, should be atleast 1 second or 1000 millisecond | rdelay 1200 |
-| rrange | Set the range of radar feature | rrange [Range:number] | Range: it should be atleast 2 and maximum 10 | rrange 3 |
-| mark | Marks the player's position for use in building cunstruction in Carpenter Menu | mark [Index:number] | Index: the index at which we want to save the position. From 0 to 9 only | mark 0 |
-| marklist | List all marked positions | | | marklist |
-| buildlist | List all buildings for selection for upgrading/demolishing/painting | | | buildlist |
-| buildsel | Select the building index which you want to upgrade, demolish and paint. | buildsel [Index:number] | Index: the index of the building we want to select, use buildlist command to list the buildings with their index | buildsel 3 |
-| buildsel | Select the marked position index where we want to cunstruct the building. | buildsel [Index:number] | Index: the index of the marked position, use marklist command to list the marked positions with their index | buildsel 0 |
-| buildsel | Select the building index along with a index of marked position where we want to move the building. | buildsel [Index1:number] [Index2:number]| Index1: the index of the building we want to select. Index2: the index of the marked position where we want to move the building. | buildsel 3 0 |
-| readd | Add an object key to the exclusions list of radar feature. | readd [Key:name] | Key: the name of the object we want to add, it can also be just a word from the object's full name, for example, we can add rug and it will add all the objects with rug word in it. | readd rug |
-| reremove | Remove an object key from the exclusions list of radar feature | reremove [Key:name] | Key: the name of the key we want to remove | reremove rug |
-| relist | List all the exclusions in the radar feature |  |  | relist |
-| reclear | Remove all keys from the exclusions list in the radar featrure |  |  | reclear |
-| recount | Number of exclusions in the radar feature |  |  | recount |
-| rfadd | Add an object key to the focus list of radar feature. | rfadd [Key:name] | Key: the name of the object we want to add, it can also be just a word from the object's full name, for example, we can add bed and it will add all the objects with bed word in it. | readd bed |
-| rfremove | Remove an object key from the focus list of radar feature | rfremove [Key:name] | Key: the name of the key we want to remove | reremove bed |
-| rflist | List all the focus in the radar feature |  |  | rflist |
-| rfclear | Remove all keys from the focus list in the radar featrure |  |  | rfclear |
-| rfcount | Number of focus in the radar feature |  |  | rfcount |
-| snapmouse | Toggle Snap Mouse Feature | | | snapmouse |
-| refsr | Refreshes screen reader | | | refsr |
+- [Features](#features)
+  - [Read Tile](#read-tile)
+  - [Tile Viewer](#tile-viewer)
+  - [Radar](#radar)
+  - [Snap Mouse](#snap-mouse)
+  - [Warning](#warning)
+  - [Manually Triggered](#manually-triggered)
+- [Keybindings](#keybindings)
+  - [Global keys](#global-keys)
+  - [Chat menu keys](#chat-menu-keys)
+  - [New Game or Charachter Customization menu keys](#new-game-or-charachter-customization-menu-keys)
+  - [Menus With Inventory keys](#menus-with-inventory-keys)
+  - [Junimo Note or Community Center Menu keys](#junimo-note-or-community-center-menu-keys)
+  - [Carpenter Menu keys](#carpenter-menu-keys)
+  - [Animal info menu keys](#animal-info-menu-keys)
+  - [Museum Menu keys](#museum-menu-keys)
+  - [Fish Pond menu keys](#fish-pond-menu-keys)
+  - [Quest menu keys](#quest-menu-keys)
+- [Commands](#commands)
+  - [Read tile related](#read-tile-related)
+  - [Radar related](#radar-related)
+  - [Building related](#building-related)
+  - [Other](#other)
 
 ## Features
 
-1. Screen Reader:- It supports NVDA and JAWS currently and it uses speech dispatcher for linux so all the screen readers supported by it should be supported by the mod.
-1. Read Tile:- This feature reads the objects and NPCs at the current grab/tool hit tile. Use `read_tile` command to toggle it. It also plays a sound if we collide. This feature is `enabled` by default. You can also manually trigger this feature with `J`.
-1. Time and Day Narrator:- It narrates current the time of day, day, date and season. The keybind for this is `Q`.
-1. Menus:- Almost all the menus are accessible, only a few are left like the profile menu and few menus related co-op and few text input menus.
-1. Keyboard-Only:- We can simulate left and right mouse clicks in the menus(only).
-1. Money Narrator:- It narrates the money you have. The keybind for this is `R`.
-1. Snap Mouse:- This feature snaps mouse to the focused tile's position. Use `snap_mouse` to toggle it. This feature is `enabled` by default.
+### Read Tile
+
+Reads the name and information about the tile the player is currently looking (not the one the player is standing on).
+
+**Related Commands:-**
+
+- `readtile` = Toggle this feature. *Enabled* by default.
+- `flooring` = Toggle reading floorings. *Disabled* by default.
+
+**Related Keybinds:-**
+
+- `J` = Manually trigger read tile for the tile player is *looking at*.
+- `Left Alt + J` = Manually trigger read tile for the tile player is *standing on*.
+
+### Tile Viewer
+
+Allows browsing of the map and snapping mouse to tiles with the arrow keys. This Feature can be used to place items into the world like calender.
+
+**Releated Config:-**
+
+- `TileCursorPreciseMovementDistance` = Default to *8*. Specifies the number of pixels the cursor should move when using precision movement i.e. with *left shift*.
+- `LimitTileCursorToScreen` = Default to *false*. Toggle whether to prevent cursor from going out of screen.
+
+**Related Keybinds:-**
+
+- `L` = Toggles realative cursor lock i.e. if enabled, the cursor will reset when player moves.
+- `Left Control + enter` = Auto walk to the tile
+- `Arrow up` = Move the cursor one tile up
+- `Arrow right` = Move the cursor one tile right
+- `Arrow down` = Move the cursor one tile down
+- `Arrow left` = Move the cursor one tile left
+- `Left Shift + Arrow up` = Move the cursor up by precision i.e. pixel by pixel
+- `Left Shift + Arrow right` = Move the cursor right by precision i.e. pixel by pixel
+- `Left Shift + Arrow down` = Move the cursor down by precision i.e. pixel by pixel
+- `Left Shift + Arrow left` = Move the cursor left by precision i.e. pixel by pixel
+
+### Radar
+
+Plays the sound at any point of interest nearby. This feature is not fully developed so haven't included the commads for it here as they are overwhelming.
+
+### Snap Mouse
+
+Snaps the mouse cursor to the adjacent tile to the player according to the direction the player is facing.
+
+**Related Commands:-**
+
+- `snapmouse` = Toggle this feature. *Enabled* by default.
+
+### Warning
+
+Warns the player when their health or stamina/energy is low. Also warns when its past midnight.
+
+### Manually Triggered
+
+These features are manually triggered when a certain key is pressed.
+
+**Related Keybinds:-**
+
+- `[ or Ctrl Enter`	= Simulate mouse left click.
+- `] or Shift Enter` = Simulate mouse right click.
+- `H` = Narrate health and stamina.
+- `Left alt + K` = Narrate current location name.
+- `K` = Narrate player position.
+- `Q` = Narrate the time of day, day and date and season
+- `R` = Narrate the money the player has currently.
+
+<!-- #TODO add API -->
+
+## Keybindings
+
+*Note that the primary info key used in a few of the menus is default to "C" key.*
+
+
+### Global keys
+
+| Key                | Description                                                      |
+| ------------------ | ---------------------------------------------------------------- |
+| Left Ctrl + Enter  | Primary key to simulate mouse left click                         |
+| Left Shift + Enter | Primary key to simulate mouse right click                        |
+| [                  | Secondary key to simulate mouse left click                       |
+| ]                  | Secondary key to simulate mouse right click                      |
+| H                  | Narrate health and stamina.                                      |
+| Left alt + K       | Narrate current location name.                                   |
+| K                  | Narrate player position.                                         |
+| Q                  | Narrates the time of day, day and date and season                |
+| R                  | Narrates the money the player has currently.                     |
+| Left alt + J       | Manually trigger Read Tile for the tile player is *stanfing on*. |
+| J                  | Manually trigger Read Tile for the tile player is *looking at*.  |
+
+### Chat menu keys
+
+| Key       | Description                |
+| --------- | -------------------------- |
+| Page up   | Read previous chat message |
+| Page down | Read next chat message     |
+
+### New Game or Charachter Customization menu keys
+
+| Key             | Description                                                                            |
+| --------------- | -------------------------------------------------------------------------------------- |
+| Right Arrow Key | Next element.                                                                          |
+| Left Arrow Key  | Previous element.                                                                      |
+| Enter           | Select the entered value <br/>in a text box(name, farm name <br/>& fav thing text box) |
+
+### Menus With Inventory keys
+
+| Key            | Description                                                                             |
+| -------------- | --------------------------------------------------------------------------------------- |
+| I              | Select the first item in chest inventory/crafting recipe/item to buy                    |
+| Left Shift + I | Select the first item in the player's inventory                                         |
+| C              | (Only in crafting page) Cycle through the available recipes in the current recipe lists |
+
+### Junimo Note or Community Center Menu keys
+
+| Key                 | Description                                                  |
+| ------------------- | ------------------------------------------------------------ |
+| I or Left shift + I | Cycle through the ingredients in the current selected bundle |
+| C or Left shift + C | Cycle through the items in the player's inventory            |
+| V or Left shift + V | Cycle through the ingredient input slots                     |
+| P                   | Move the mouse cursor to purchase button                     |
+| Backspace           | Move the mouse cursor to back button                         |
+
+### Carpenter Menu keys
+
+| Key                 | Description                                |
+| ------------------- | ------------------------------------------ |
+| Primary info key(C) | Speak the info about the current blueprint |
+
+### Animal info menu keys
+
+| Key                 | Description                                            |
+| ------------------- | ------------------------------------------------------ |
+| Primary info key(C) | For narrating animal details                           |
+| Escape              | For escaping/unselecting from the animal name text box |
+
+### Museum Menu keys
+
+| Key                 | Description                   |
+| ------------------- | ----------------------------- |
+| Primary info key(C) | Donate currently hovered item |
+
+### Fish Pond menu keys
+
+| Key                 | Description               |
+| ------------------- | ------------------------- |
+| Primary info key(C) | Speak the info about pond |
+
+### Quest menu keys
+
+| Key                 | Description              |
+| ------------------- | ------------------------ |
+| Primary info key(C) | Speak current quest info |
+
+## Commands
+
+### Read tile related
+
+| Command  | Description              |
+| -------- | ------------------------ |
+| readtile | Toggle Read Tile feature |
+| flooring | Toggle reading folooring |
+
+### Radar related
+
+| Command  | Description                                                    |
+| -------- | -------------------------------------------------------------- |
+| radar    | Toggle Radar feature                                           |
+| rdebug   | Toggle debugging in radar feature                              |
+| rstereo  | Toggle stereo sound in radar feature                           |
+| rfocus   | Toggle focus mode in radar feature                             |
+| rdelay   | Set the delay of radar feature in milliseconds                 |
+| rrange   | Set the range of radar feature                                 |
+| readd    | Add an object key to the exclusions list of radar feature.     |
+| reremove | Remove an object key from the exclusions list of radar feature |
+| relist   | List all the exclusions in the radar feature                   |
+| reclear  | Remove all keys from the exclusions list in the radar featrure |
+| recount  | Number of exclusions in the radar feature                      |
+| rfadd    | Add an object key to the focus list of radar feature.          |
+| rfremove | Remove an object key from the focus list of radar feature      |
+| rflist   | List all the focus in the radar feature                        |
+| rfclear  | Remove all keys from the focus list in the radar featrure      |
+| rfcount  | Number of focus in the radar feature                           |
+
+### Building related
+
+| Command   | Description                                                                                         | Special Syntax (If any)                  | Argument details (If any)                                                                                                         | Example      |
+| --------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| mark      | Marks the player's position for use in building cunstruction in Carpenter Menu                      | mark [Index:number]                      | Index: the index at which we want to save the position. From 0 to 9 only                                                          | mark 0       |
+| marklist  | List all marked positions                                                                           |                                          |                                                                                                                                   | marklist     |
+| buildlist | List all buildings for selection for upgrading/demolishing/painting                                 |                                          |                                                                                                                                   | buildlist    |
+| buildsel  | Select the building index which you want to upgrade, demolish and paint.                            | buildsel [Index:number]                  | Index: the index of the building we want to select, use buildlist command to list the buildings with their index                  | buildsel 3   |
+| buildsel  | Select the marked position index where we want to cunstruct the building.                           | buildsel [Index:number]                  | Index: the index of the marked position, use marklist command to list the marked positions with their index                       | buildsel 0   |
+| buildsel  | Select the building index along with a index of marked position where we want to move the building. | buildsel [Index1:number] [Index2:number] | Index1: the index of the building we want to select. Index2: the index of the marked position where we want to move the building. | buildsel 3 0 |
+
+Check the [guide](#TODO-add-this) on how to use these.
+
+### Other
+
+| Command   | Description                      |
+| --------- | -------------------------------- |
+| snapmouse | Toggle Snap Mouse Feature        |
+| refsr     | Refreshes screen reader          |
+| refst     | Refreshes static tiles json file |
+| refmc     | Refreshes mof config json file   |

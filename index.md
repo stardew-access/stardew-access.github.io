@@ -1,24 +1,33 @@
-# Stardew Access
+# Stardew Access <!-- omit in toc -->
 
-An accessibility mod for Stardew Valley with screen reader and keyboard only support. Currently only for windows and linux.
-Before we talk about the mod, let's see what actually is Stardew Valley.
+An accessibility mod for Stardew Valley for Windows and linux with features like screen reader support for menus, chat, etc, read tile, keybinds to speak certain information like time, money, current location, etc.
 
-## What is Stardew Valley?
+Feel free to report any issue or new feature suggestion over on the [issues](https://github.com/stardew-access/stardew-access/issues) page.
 
-Stardew Valley is an open-ended country-life RPG! You’ve inherited your grandfather’s old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home? It won’t be easy. Ever since Joja Corporation came to town, the old ways of life have all but disappeared. The community center, once the town’s most vibrant hub of activity, now lies in shambles. But the valley seems full of opportunity. With a little dedication, you might just be the one to restore Stardew Valley to greatness!
-(taken from [stardew valley wiki](https://stardewvalleywiki.com/Stardew_Valley_Wiki))
+## Table of Contents <!-- omit in toc -->
 
-## What can the mod do?
+- [Where to buy Stardew Valley](#where-to-buy-stardew-valley)
+- [Sites you may find helpful](#sites-you-may-find-helpful)
+- [Pages](#pages)
 
-Well, the game is 80-90% accessible at the moment, all the basic menus are accessible and some of the late game menus are not accessible but will be in the next few updates. There are keybinds that tell us the player's health, stamina, money, etc. A feature called `Read Tile` which tells us the name of the object on the tile, if the object is crop then it will also tell us if the crop is harvestable. There's also a feature which `Radar` which plays a sound at objects nearby, since stardew valley does not support stereo sound, it is not that helpful in locating objects but this combined with a `Path Finding` feature in the [Accessible Tiles] (https://github.com/GrumpyCrouton/SDV-AccessibleTiles) will make locating of objects and NPCs like forages easier. There are also keybinds and commands specific to some menus so do check out the lists for both in [Mod Details](/mod-details) page.
+## Where to buy Stardew Valley
 
-## Contact
+Stardew Valley is available on [Steam](https://store.steampowered.com/app/413150/Stardew_Valley/), [GoG](https://www.gog.com/en/game/stardew_valley) and from microsoft store or through xbox gamepass. The recommended platform to buy the game is Steam though it is not much accessible. There is a guide on how to install games in steam - [here](https://www.mail-archive.com/audiogames-reflector@sabahattin-gucukoglu.com/msg291641.html), and there is also a guide on how to set it up for mods on each platforms - [here](/setup#smapi-setup).
 
-If you want to contact me, whether it be for reporting any bugs or suggesting a feature, you can contact me via [discord](https://discord.gg/yQjjsDqWQX) or [twitter](https://twitter.com/Shoaib6996). If you want to support the project's development, you do so via [patreon](https://www.patreon.com/shoaibkhan).
+## Sites you may find helpful
+
+- [A4A](https://a4a-mods.com/) - an accessible site with accessibility mods for stardew valley and other games as well(currently in development).
+- [Stardew Valley Wiki](https://stardewvalleywiki.com/Stardew_Valley_Wiki) - has guides and info for everything in stardew valley though some things may not be accessible.
+- [Stardew Valley Nexus page](https://www.nexusmods.com/stardewvalley) - hundreds of mods for Stardew Valley, guide on how to use Nexus - [here](#TODO-add-link-here).
+- [Playability Discord server](https://discord.gg/yQjjsDqWQX) - You can join if you need help in setting up the mod or any issue related stardew valley.
+- [Twitter](https://twitter.com/shoaib_mk0) - You can follow me on twitter to get notification when a new update drops.
+- [Patreon](https://www.patreon.com/shoaibkhan)
 
 ## Pages
 
-- [Setup](/setup)
+Other pages on this wiki:-
+<!-- #TODO add details about each page -->
+- [Mod Setup](/mod-setup) 
 - [Mod Details](/mod-details)
 - [Guides](/guides)
 - [Useful Coords](/useful-coords)

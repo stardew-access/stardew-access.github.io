@@ -8,7 +8,7 @@ permalink: /guides/
 ## Other Pages
 
 - [Home](/)
-- [Setup](/setup)
+- [Setup](/mod-setup)
 - [Mod Details](/mod-details)
 - [Useful Coords](/useful-coords)
 
