@@ -18,6 +18,9 @@ This is the setup guide for both smapi(the mod handler for stardew vallet) and s
     - [For GOG Galaxy](#for-gog-galaxy)
   - [Xbox Setup](#xbox-setup)
 - [Mod Installation](#mod-installation)
+- [Other Mods](#other-mods)
+  - [Essential](#essential)
+  - [Recommend](#recommend)
 
 ## Pages
 
@@ -28,8 +31,8 @@ This is the setup guide for both smapi(the mod handler for stardew vallet) and s
 
 ## Quick Links
 
-- [Latest Stardew Access Release Page](https://github.com/stardew-access/stardew-access/releases/latest)
-- [Download Latest Stardew Access Version](https://github.com/stardew-access/stardew-access/releases/latest/download/stardew-access.zip)
+- [Access for All Website](https://a4a-mods.com/) - developed by [GrumpyCrouton](https://a4a-mods.com/mods/user?user_id=2)
+- [Stardew Access Page](https://a4a-mods.com/mods/details?uid=2#)
 - [SMAPI website](https://smapi.io/)
 - [Latest SMAPI Release Page](https://github.com/Pathoschild/SMAPI/releases/latest)
 - [All Stardew Access Releases](https://github.com/stardew-access/stardew-access/releases)
@@ -103,8 +106,21 @@ In your game folder:
 
 ## Mod Installation
 
-1. Download the [latest version.](https://github.com/stardew-access/stardew-access/releases/latest/download/stardew-access.zip)
+1. Download the [latest version.](https://a4a-mods.com/mods/details?uid=2#/downloads)
 2. Extract the zip file (extracting it into the download folder should be fine).
 3. Copy/Cut the generated `stardew-access` folder.
 4. Paste it into the `Mods` folder in your game folder.
 5. These instructions are same for most of the mods.
+
+## Other Mods
+
+### Essential
+
+- [Accessible Tiles](https://a4a-mods.com/mods/details?uid=3) - developed by [GrumpyCrouton](https://a4a-mods.com/mods/user?user_id=2), adds grid movement and object tracking features
+- [Auto Travel](https://a4a-mods.com/mods/details?uid=1) - developed by [GrumpyCrouton](https://a4a-mods.com/mods/user?user_id=2), allows you to create custom travel points, which you can fast travel to from anywhere.
+- [Wasteless Watering](https://a4a-mods.com/mods/details?uid=5) - also developed by [GrumpyCrouton](https://a4a-mods.com/mods/user?user_id=2), you will no longer waste water on non-soil tiles
+- [Chat Commands](https://www.nexusmods.com/stardewvalley/mods/2092) - makes it so you can enter commands from chat directly
+
+### Recommend
+
+- [Glue Down Furniture](https://www.nexusmods.com/stardewvalley/mods/10374) - Prevents you from picking up your furniture. We highly recommend installing.
