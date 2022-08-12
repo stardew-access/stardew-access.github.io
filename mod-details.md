@@ -5,7 +5,7 @@ permalink: /mod-details/
 
 # Mod Details <!-- omit in toc -->
 
-This page contains details about the new feature, keybinds, commands and the mods config.
+This page contains details about the new feature, keybinds and commands.
 
 *Note that the keybinds can be remapped from the config file, you follow [this](#TODO-add-this) guide.*
 
@@ -25,7 +25,7 @@ This page contains details about the new feature, keybinds, commands and the mod
   - [Snap Mouse](#snap-mouse)
   - [Warning](#warning)
   - [Manually Triggered](#manually-triggered)
-- [New Keybindings](#new-keybindings)
+- [Keybindings](#keybindings)
   - [Global keys](#global-keys)
   - [Chat menu keys](#chat-menu-keys)
   - [New Game or Charachter Customization menu keys](#new-game-or-charachter-customization-menu-keys)
@@ -36,7 +36,7 @@ This page contains details about the new feature, keybinds, commands and the mod
   - [Museum Menu keys](#museum-menu-keys)
   - [Fish Pond menu keys](#fish-pond-menu-keys)
   - [Quest menu keys](#quest-menu-keys)
-- [New Commands](#new-commands)
+- [Commands](#commands)
   - [Read tile related](#read-tile-related)
   - [Radar related](#radar-related)
   - [Building related](#building-related)
@@ -112,7 +112,7 @@ These features are manually triggered when a certain key is pressed.
 
 <!-- #TODO add API -->
 
-## New Keybindings
+## Keybindings
 
 *Note that the primary info key used in a few of the menus is default to "C" key.*
 
@@ -197,7 +197,7 @@ These features are manually triggered when a certain key is pressed.
 | ------------------- | ------------------------ |
 | Primary info key(C) | Speak current quest info |
 
-## New Commands
+## Commands
 
 ### Read tile related
 
@@ -241,7 +241,6 @@ These features are manually triggered when a certain key is pressed.
 Check the [guide](#TODO-add-this) on how to use these.
 
 ### Other
-
 
 | Command   | Description                      |
 | --------- | -------------------------------- |
