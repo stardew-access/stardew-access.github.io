@@ -23,6 +23,8 @@ This page contains details about the new feature, keybinds, commands and the mod
   - [Tile Viewer](#tile-viewer)
   - [Radar](#radar)
   - [Snap Mouse](#snap-mouse)
+  - [Warning](#warning)
+  - [Manually Triggered](#manually-triggered)
 
 ## Features
 
@@ -73,3 +75,22 @@ Snaps the mouse cursor to the adjacent tile to the player according to the direc
 **Related Commands:-**
 
 - `snapmouse` = Toggle this feature. *Enabled* by default.
+
+### Warning
+
+Warns the player when their health or stamina/energy is low. Also warns when its past midnight.
+
+### Manually Triggered
+
+These features are manually triggered when a certain key is pressed.
+
+**Related Keybinds:-**
+
+- `[ or Ctrl Enter`	= Simulate mouse left click
+- `] or Shift Enter` = Simulate mouse right click
+- `H` = Narrate health and stamina.
+- `K` = Narrate player position.
+- `Q` = Narrate the time of day, day and date and season
+- `R` = Narrate the money the player has
+
+<!-- #TODO add API -->
