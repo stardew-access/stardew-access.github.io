@@ -7,10 +7,15 @@ permalink: /mod-setup/
 
 This is the setup guide for both smapi(the mod handler for stardew vallet) and stardew access.
 
+## Other Pages <!-- omit in toc -->
+
+- [Home](/)
+- [Mod Details](/mod-details)
+- [Guides](/guides)
+- [Useful Coords](/useful-coords)
 
 ## Table of Contents <!-- omit in toc -->
 
-- [Pages](#pages)
 - [Quick Links](#quick-links)
 - [SMAPI setup](#smapi-setup)
   - [Configuring the game client](#configuring-the-game-client)
@@ -21,13 +26,6 @@ This is the setup guide for both smapi(the mod handler for stardew vallet) and s
 - [Other Mods](#other-mods)
   - [Essential](#essential)
   - [Recommend](#recommend)
-
-## Pages
-
-- [Home](/)
-- [Mod Details](/mod-details)
-- [Guides](/guides)
-- [Useful Coords](/useful-coords)
 
 ## Quick Links
 
