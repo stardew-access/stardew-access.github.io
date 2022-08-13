@@ -242,9 +242,10 @@ Check the [guide](#TODO-add-this) on how to use these.
 
 ### Other
 
-| Command   | Description                      |
-| --------- | -------------------------------- |
-| snapmouse | Toggle Snap Mouse Feature        |
-| refsr     | Refreshes screen reader          |
-| refst     | Refreshes static tiles json file |
-| refmc     | Refreshes mof config json file   |
+| Command    | Description                                                             |
+| ---------- | ----------------------------------------------------------------------- |
+| snapmouse  | Toggle Snap Mouse Feature                                               |
+| hnspercent | Toggle between speaking in <br/> percentage or full health and stamina. |
+| refsr      | Refreshes screen reader                                                 |
+| refst      | Refreshes static tiles json file                                        |
+| refmc      | Refreshes mof config json file                                          |
