@@ -52,6 +52,7 @@ Reads the name and information about the tile the player is currently looking (n
 
 - `readtile` = Toggle this feature. *Enabled* by default.
 - `flooring` = Toggle reading floorings. *Disabled* by default.
+- `watered` = Toggle speaking watered or unwatered for crops. *Enabled* by default.
 
 **Related Keybinds:-**
 
@@ -201,10 +202,11 @@ These features are manually triggered when a certain key is pressed.
 
 ### Read tile related
 
-| Command  | Description              |
-| -------- | ------------------------ |
-| readtile | Toggle Read Tile feature |
-| flooring | Toggle reading folooring |
+| Command  | Description                                     |
+| -------- | ----------------------------------------------- |
+| readtile | Toggle Read Tile feature                        |
+| flooring | Toggle reading folooring                        |
+| watered  | Toggle speaking watered or unwatered for crops. |
 
 ### Radar related
 
