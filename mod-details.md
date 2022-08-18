@@ -97,6 +97,10 @@ Snaps the mouse cursor to the adjacent tile to the player according to the direc
 
 Warns the player when their health or stamina/energy is low. Also warns when its past midnight.
 
+**Related Commands:-**
+
+- `warning` = Toggle this feature. *Enabled* by default.
+
 ### Manually Triggered
 
 These features are manually triggered when a certain key is pressed.
@@ -247,6 +251,7 @@ Check the [guide](#TODO-add-this) on how to use these.
 | Command    | Description                                                             |
 | ---------- | ----------------------------------------------------------------------- |
 | snapmouse  | Toggle Snap Mouse Feature                                               |
+| warning    | Toggle Warnings Feature                                                 |
 | hnspercent | Toggle between speaking in <br/> percentage or full health and stamina. |
 | refsr      | Refreshes screen reader                                                 |
 | refst      | Refreshes static tiles json file                                        |
